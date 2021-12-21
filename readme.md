@@ -9,4 +9,7 @@ This is a simple website about cats. Try to fork this repo and create a better v
 
 Feel free to use your own ideas.
 
-**=^.^=**
+# Credits
+The cat images are from <a href="https://www.pexels.com/search/cat/">https://www.pexels.com/search/cat/</a>
+
+Enjoy! **=^.^=**
